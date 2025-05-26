@@ -2,7 +2,6 @@ package com.example.randomword.fairies;
 
 import android.content.Context;
 import android.content.SharedPreferences;
-
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Random;
